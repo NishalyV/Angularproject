@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+.badge{
+    background-color: white;
+    color:red;
+}
+body{
+    background-color: rgb(217, 248, 243);
+}
